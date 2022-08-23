@@ -10,5 +10,5 @@ Examines delivery data that were collected by restaurants that used my delivery 
 
 Extracts new metrics and discovers unknown patterns abouts the customer behavior. 
 
-The interactive map can be viewed [here]((http://nbviewer.org/github/kevhiga/Delivery-Dataset/blob/main/Food%20Delivery%20Analysis.ipynb)
+The interactive map can be viewed [here](http://nbviewer.org/github/kevhiga/Delivery-Dataset/blob/main/Food%20Delivery%20Analysis.ipynb)
 
